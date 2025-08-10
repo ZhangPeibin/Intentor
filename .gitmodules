@@ -1,0 +1,9 @@
+[submodule "IntentorFront"]
+	path = IntentorFront
+	url = git@github.com:ZhangPeibin/IntentorFront.git
+[submodule "IntentorContract"]
+	path = IntentorContract
+	url = git@github.com:ZhangPeibin/IntentorContract.git
+[submodule "IntentorBackend"]
+	path = IntentorBackend
+	url = git@github.com:ZhangPeibin/IntentorBackend.git
